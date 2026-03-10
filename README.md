@@ -63,9 +63,9 @@
 
 # Kadlec
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Filip12345&theme=dark&hide_border=true&border_radius=20&short_numbers=true&background=0d1117&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Flip12345&theme=dark&hide_border=true&border_radius=20&short_numbers=true&background=0d1117&ring=9D53EE&fire=EB5454&currStreakLabel=9D53EE&sideLabels=F1C40F&currStreakNum=ffffff&sideNums=ffffff&dates=555555&excludeDaysLabel=EB5454&exclude_days=Sun%2CSat" width="70%" />
   <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Filip12345&theme=dark&hide_border=true&bg_color=0d1117&border_radius=20&show_icons=true" width="70%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flip12345&theme=dark&hide_border=true&bg_color=0d1117&border_radius=20&show_icons=true" width="70%" />
 </p>
 
 # Mily
